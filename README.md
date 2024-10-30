@@ -31,8 +31,7 @@
 
 # Descripción del proyecto
 
-¡Bienvenido/a al Conversor de Monedas!
-Este proyecto permite convertir un tipo de moneda por otro tipo de moneda, teniendo varios tipos de monedas.
+Este proyecto permite convertir un tipo de moneda (el dólar) por varios tipos de monedas internacionales, de esta forma uno puede conocer lo que vale el tipo de moneda en un país determinado.
 
 # Estado del proyecto
 

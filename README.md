@@ -1,5 +1,7 @@
 <h1>:heavy_dollar_sign: Conversor de Monedas :heavy_dollar_sign:</h1>
 
+![Vídeo](./multimedia/UsarProyecto/ConversorDeMonedas.mp4)
+
 # Insignias
 
 <div align="center">
@@ -31,7 +33,8 @@
 
 # Descripción del proyecto
 
-Este proyecto permite convertir un tipo de moneda (el dólar) por varios tipos de monedas internacionales, de esta forma uno puede conocer lo que vale el tipo de moneda en un país determinado.
+¡Bienvenido/a al Conversor de Monedas!
+Este proyecto permite convertir un tipo de moneda por otro tipo de moneda, teniendo varios tipos de monedas.
 
 # Estado del proyecto
 
@@ -106,3 +109,7 @@ Para abrir dicho proyecto en IntelliJ IDEA realiza lo siguiente:
 # Persona Desarrolladora del Proyecto
 
 [<img src="https://avatars.githubusercontent.com/u/107082359?v=4" width=115><br><sub>Sergio Zuñiga Fraga</sub>](https://github.com/SergioZF09)
+
+# Agradecimientos
+
+Agradezco a los Maestros Genesys Rondon y al Maestro Bruno Darío Fernandez Ellerbach de Alura Latam junto con Apple por haber hecho un reto increíble y en donde pude aplicar todo lo aprendido en la primera formación de Java.

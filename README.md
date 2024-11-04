@@ -96,6 +96,11 @@ Para abrir dicho proyecto en IntelliJ IDEA realiza lo siguiente:
 ![MenuProyectos](./multimedia/AccesoProyecto/MenuProyectos.png)
 
 - Seleccionar el proyecto, das click en el botón azul OK y se abre.
+
+- Obtener una key o una clave para que funcione el programa. Para eso hay que ir a la página [ExchangeRate-API](https://www.exchangerate-api.com/):
+![PaginaExchangeRateAPI](./multimedia/AccesoProyecto/ConseguirClaveApi.png)
+Introduce un correo y luego le mandará a una pestaña para introducir una contraseña para así crear una cuenta y le entreguen la clave. Después te llegará un correo para confirmar dicho correo y le das click al enlace, luego llenas la información que te indiquen, después te llegará otro correo indicando que fue activada tu cuenta y te entregarán la clave la cual sólo lo podrás usar tú.
+
 - Y para arrancar el programa solo le das click en la flecha verde hasta arriba y listo.
 ![ArrancarPrograma](./multimedia/AccesoProyecto/ArrancarPrograma.png)
 

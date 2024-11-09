@@ -11,7 +11,10 @@ public class ConsultaMonedas {
 
     public MonedasAPI buscarMoneda(String monedaBase, String monedaObjetivo){
 
-        String apiKey = "ce9d8dcf01e2c243c3ea68ab";
+        //Se realiza la conexión de la API a la aplicación
+        
+        //Aquí se introduce la clave para poder usar la API
+        String apiKey = "";
 
         URI uriDeApi = URI.create("https://v6.exchangerate-api.com/v6/" + apiKey + "/pair/"+monedaBase+"/"+monedaObjetivo+"/");
 

@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/daef0381-938d-4002-b256-6b6d03e46106
 
 - [Teconologías utilizadas](#teconologías-utilizadas)
 
-- [Personas Desarrolladoras del Proyecto](#personas-desarrolladoras-del-proyecto)
+- [Personas Desarrolladoras del Proyecto](#persona-desarrolladora-del-proyecto)
 
 # Descripción del proyecto
 
